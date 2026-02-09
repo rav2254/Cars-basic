@@ -9,6 +9,7 @@ Just a basic beginner level HTML project testing my ability to-
 
 Notes-
 Welcome to my first public project. I don't why you'd be reading this but Thank you for looking at my very basic project!
+I made this project for the Odin Project HTML assignment.
 I went with making a list of my favorite cars instead of a cookie cutter recipe project. 
 I wanted to make the page a lot more extensive with many more cars. sorting them by decades, engine size, HP and region but since i am only working with HTML and the project is more about testing the skills i learned so far rather than creating a full fledged website, i decided to leave it at this.
 
